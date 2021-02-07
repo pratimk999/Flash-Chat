@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301748690474",
+    "project_id": "flash-chat-6075a",
+    "storage_bucket": "flash-chat-6075a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301748690474:android:a973c1c9b3a559a13e6d53",
+        "android_client_info": {
+          "package_name": "kundupratim.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301748690474-u3hiektac6b7s1pspaodou764o23o29s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_DWAYUoas3QQBIG9HAiXvUWOOv8QzUZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301748690474-u3hiektac6b7s1pspaodou764o23o29s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
